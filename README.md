@@ -1,8 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
+# Scoreboard
+A simple scoreboard app to track two players’ scores with buttons to add points and reset the game.
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
