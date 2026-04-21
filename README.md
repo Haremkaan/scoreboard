@@ -1,5 +1,6 @@
 # Scoreboard
 A simple scoreboard app to track two players’ scores with buttons to add points and reset the game.
+Its a nice game
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
